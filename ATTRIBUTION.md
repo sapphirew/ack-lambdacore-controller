@@ -21,7 +21,6 @@ distributed. For any package *NOT* distributed under the terms of the Apache
 License version 2.0, we include the full text of the package's License below.
 
 * `github.com/aws-controllers-k8s/runtime`
-* `github.com/aws/aws-sdk-go`
 * `github.com/spf13/pflag`
 * `k8s.io/apimachinery`
 * `k8s.io/client-go`
@@ -1521,17 +1520,6 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 License Identifier: Apache-2.0
 
 #### sigs.k8s.io/structured-merge-diff/v6
-
-License Identifier: Apache-2.0
-
-### github.com/aws/aws-sdk-go
-
-License Identifier: Apache-2.0
-
-Subdependencies:
-* `github.com/jmespath/go-jmespath`
-
-#### github.com/jmespath/go-jmespath
 
 License Identifier: Apache-2.0
 
